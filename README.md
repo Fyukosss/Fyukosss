@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fyukosss
-- 👀 I’m interested in three dots.
-- 🌱 I’m currently learning three dots
-- 📫 How to reach me ... threedots
+- 👀 I’m interested in computers.
+- 🌱 I’m currently learning how to connect ethernet cable to computer.
+- 📫 How to reach me ... 
 
 <!---
 Fyukosss/Fyukosss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
